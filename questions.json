@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Whats my favourite name??",
+        "choice1": "Thabo",
+        "choice2": "Keorapetse",
+        "choice3": "Molefi",
+        "choice4": "None of the above",
+        "answer": 4
+    },
+    {
+        "question": "Where would I rather be now?",
+        "choice1": "In my home with my wife",
+        "choice2": "Next to my mum",
+        "choice3": "In the MDiHub",
+        "choice4": "Compton",
+        "answer": 1
+    },
+    {
+        "question": "How much do I miss alcohol?",
+        "choice1": "A lot, like I would kill for a glass of Amstel",
+        "choice2": "Not much...",
+        "choice3": "Nothing at all",
+        "choice4": "I accasionally miss it",
+        "answer": 3
+    },
+    {
+        "question": "What's my favorite clothing brand?",
+        "choice1": "Rossimoda",
+        "choice2": "DMD Dwep Mo' Dwep",
+        "choice3": "Carvela",
+        "choice4": "Dickies",
+        "answer": 4
+    },
+    {
+        "question": "Whos my favorite house artist?",
+        "choice1": "Ooh Shucks",
+        "choice2": "Da Capo",
+        "choice3": "Black Motion",
+        "choice4": "Kususa",
+        "answer": 1
+    },
+    {
+        "question": "Who's my favourite rapper of all time?",
+        "choice1": "Tupac",
+        "choice2": "Kendrick Lamar",
+        "choice3": "Nipsey Hussle",
+        "choice4": "YoungstaCPT",
+        "answer": 1
+    },
+    {
+        "question": "What's my life motto?",
+        "choice1": "Love",
+        "choice2": "Feminism",
+        "choice3": "Spirituality",
+        "choice4": "Respect",
+        "answer": 1
+    },
+    {
+        "question": "What saved me?",
+        "choice1": "The Bible",
+        "choice2": "Tupac Shakur and hip hop",
+        "choice3": "Sir Max",
+        "choice4": "My family",
+        "answer": 2
+    },
+    {
+        "question": "Where do I draw motivation from in my life?",
+        "choice1": "Life",
+        "choice2": "Where I come from",
+        "choice3": "Where I wanna go",
+        "choice4": "Keaoleboga",
+        "answer": 4
+    },
+    {
+        "question": "What is my purpose in life?",
+        "choice1": "Enlightenment",
+        "choice2": "To program",
+        "choice3": "To write",
+        "choice4": "Yet to be descovered",
+        "answer": 1
+    }
+]
